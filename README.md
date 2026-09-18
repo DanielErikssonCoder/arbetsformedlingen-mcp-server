@@ -1,5 +1,7 @@
 # Arbetsförmedlingen MCP Server
 
+[![Listed in sweden-mcp-servers](https://img.shields.io/badge/listed%20in-sweden--mcp--servers-006aa7)](https://github.com/bsab/sweden-mcp-servers)
+
 MCP server for the Swedish labour market. Built on [Arbetsförmedlingen](https://arbetsformedlingen.se) and [JobTech Dev](https://data.arbetsformedlingen.se/) open APIs.
 
 Gives Claude and other MCP-compatible AI assistants 13 tools for searching jobs, streaming real-time events, AI-analysing job ads, and navigating the Swedish occupation taxonomy.
