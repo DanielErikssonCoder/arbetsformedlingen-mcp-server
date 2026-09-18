@@ -10,6 +10,8 @@ No API key required. All APIs are publicly accessible.
 
 ## Quick start
 
+Requires Node.js 18 or later (`npx` is included with Node). No API key required.
+
 Add to your Claude Desktop config (`%APPDATA%\Claude\claude_desktop_config.json` on Windows, `~/Library/Application Support/Claude/claude_desktop_config.json` on macOS):
 
 ```json
